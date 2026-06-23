@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
-import { Search, Filter, Star, Clock, Flame, X, ChevronDown, Grid3x3, List, SlidersHorizontal } from 'lucide-react'
+import { Search, Star, Clock, Flame, X, ChevronDown, Grid3x3, List, SlidersHorizontal } from 'lucide-react'
 import { useCartStore } from '../store/cartStore'
 
 // Full menu data with categories
